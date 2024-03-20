@@ -1,4 +1,4 @@
-# Image to 3D Measurements App
+# BodyVision
 This application utilizes computer vision and machine learning algorithms to analyze images and provide accurate 3D measurements of objects within them.
 
 # Features
